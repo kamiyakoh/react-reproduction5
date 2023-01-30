@@ -45,5 +45,5 @@ Which package manager do you want to use? · npm
 prettier の設定は以下の設定です
 
 "tabWidth": 2, //インデントのスペースの数 2  
-"singleQuote": true, //ダブルクォートの代わりにシングルクォートを使用するを有効に
+"singleQuote": true, //ダブルクォートの代わりにシングルクォートを使用するを有効に  
 "semi": true //文末にセミコロンを追加する
