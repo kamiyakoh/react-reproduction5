@@ -41,7 +41,7 @@ Which package manager do you want to use? · npm
 
 ## prettier
 
-VSCode をエディタとして使用する場合、拡張機能に "Prettier - Code formatter"をインストールし有効化すると保存時に自動成形を行います  
+エディタがVSCodeの場合、拡張機能に "Prettier - Code formatter"をインストールし有効化すると保存時に自動成形を行います  
 prettier の設定は以下の設定です
 
 "tabWidth": 2, //インデントのスペースの数 2
