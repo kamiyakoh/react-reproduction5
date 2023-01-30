@@ -36,8 +36,8 @@ What format do you want your config file to be in? · JSON
 Would you like to install them now? · No / Yes
 Which package manager do you want to use? · npm
 
-parser に "babel-eslint" を指定しました
-extends に "prettier" を指定し prettier との競合を抑制しました
+* parser に "babel-eslint" を指定しました
+* extends に "prettier" を指定し prettier との競合を抑制しました
 
 ## prettier
 
