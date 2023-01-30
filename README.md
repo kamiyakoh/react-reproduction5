@@ -16,8 +16,8 @@
 
 ## インストール
 
-$ git clone https://github.com/kamiyakoh/react-reproduction5
-$ cd react-reproduction5
+$ git clone https://github.com/kamiyakoh/react-reproduction5  
+$ cd react-reproduction5  
 $ npm install
 
 ## eslint
