@@ -24,7 +24,7 @@ $ npm install
 
 ## eslint
 
-`$ npm init @selint/config` を用いて以下の設定内容で設定しました
+`$ npm init @eslint/config` を用いて以下の設定内容で設定しました
 
 > How would you like to use ESLint? · style  
 > What type of modules does your project use? · esm  
@@ -35,11 +35,11 @@ $ npm install
 > Which style guide do you want to follow? · airbnb    
 > What format do you want your config file to be in? · JSON  
 > 
-> Would you like to install them now? · No / Yes  
+> Would you like to install them now? · Yes  
 > Which package manager do you want to use? · npm
 
-* parser に "babel-eslint" を指定しました
-* extends に "prettier" を指定し prettier との競合を抑制しました
+- parser に "babel-eslint" を指定しました
+- extends に "prettier" を指定し prettier との競合を抑制しました
 
 ## prettier
 
