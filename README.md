@@ -35,7 +35,7 @@ $ npm install
 > Which style guide do you want to follow? · airbnb  
 > What format do you want your config file to be in? · JSON
 > 
-> Would you like to install them now? · No / Yes
+> Would you like to install them now? · No / Yes  
 > Which package manager do you want to use? · npm
 
 * parser に "babel-eslint" を指定しました
