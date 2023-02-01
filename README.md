@@ -1,6 +1,6 @@
 # React-Reproduction5
 
-"React-Reproduction5"は create-react-app の練習作成です
+**"React-Reproduction5"** は create-react-app の練習作成です
 
 ## 作成環境
 
@@ -10,9 +10,9 @@
 
 ## 使い方
 
-1. $ npm start とターミナルにて入力で起動します
+1. `$ npm start` とターミナルにて入力で起動します
 2. ブラウザにて "http://localhost:3000/" を開くと表示されます
-3. ターミナルにて "Crtl + c" または "cmd + c" で停止します
+3. ターミナルにて **"Crtl + c"** または **"cmd + c"** で停止します
 
 ## インストール
 
@@ -43,7 +43,7 @@ $ npm install
 
 ## prettier
 
-エディタがVSCodeの場合、拡張機能に "Prettier - Code formatter"をインストールし有効化すると保存時に自動成形を行います  
+エディタがVSCodeの場合、拡張機能に ***"Prettier - Code formatter"*** をインストールし有効化すると保存時に自動成形を行います  
 prettier の設定は以下の設定です
 
 - "tabWidth": 2, //インデントのスペースの数 2  
